@@ -1,2 +1,5 @@
-def myName (x):
-    print("Your name is", x)
+def myName (y):
+    print("Welcome", y)
+
+x = input("What's your name? ")
+myName(x)
